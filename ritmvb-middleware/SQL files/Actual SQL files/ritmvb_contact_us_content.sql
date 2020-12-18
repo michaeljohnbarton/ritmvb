@@ -1,0 +1,3 @@
+INSERT INTO ritmvb.contact_us_content (id, type, content) VALUES (5, 'text1', 'If you have any questions, comments or concerns (or just want to say hi!), feel free to reach out to us at');
+INSERT INTO ritmvb.contact_us_content (id, type, content) VALUES (6, 'email', 'ritmensvolleyball@gmail.com');
+INSERT INTO ritmvb.contact_us_content (id, type, content) VALUES (7, 'text2', 'Or you can reach out directly to any of our team officers');

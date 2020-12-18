@@ -1,0 +1,1 @@
+INSERT INTO ritmvb.home_title (id, title) VALUES (1, 'RIT Men''s Club Volleyball');
